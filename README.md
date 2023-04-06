@@ -16,6 +16,8 @@ Le Test de QI est une application Python simple et intuitive pour tester les com
 
 ## Installation et exécution
 
+pip install python-tk
+
 Python main.py
 
 
